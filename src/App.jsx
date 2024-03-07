@@ -38,6 +38,7 @@ const AppContent = () => {
       <h1 className="title">Hello world!</h1>
       <div className="box">
         <h2>Hello</h2>
+        <h2>Dark/Light</h2>
       </div>
     </div>
   );
